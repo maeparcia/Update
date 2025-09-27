@@ -1,0 +1,5 @@
+serverBaseUrl=https://phantomcodes.x10.mx/onlinelib/
+gameActivity=com.tencent.tmgp.cod.CODMainActivity
+game1=DELUXE VARIANT|libdeluxe.so
+game2=PREMIUM VARIANT|libpremium.so  
+game3=EXTERNAL VARIANT|libexternal.so
