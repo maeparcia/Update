@@ -1,5 +1,6 @@
 serverBaseUrl=https://phantomcodes.x10.mx/onlinelib/
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
-game1=TEST|libcess.so|You selected LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
+game1=FREE VERSION|libmai.so|THIS IS FREE VERSION ONLY NO NEED KEY.
 
+game2=TEST VERSION|libtest.so|THIS IS FREE VERSION ONLY NO NEED KEY.
