@@ -2,6 +2,8 @@ serverBaseUrl=https://phantomcodes.x10.mx/onlinelib/
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
 game1=LOW END DEVICE|libcess.so|You selected LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
-game2=MID END DEVICE|libmid.so|You selected MID END DEVICE. This version is optimized for mid-range devices.
-game3=HIGH END DEVICE|libhigh.so|Make sure you are using a HIGH END DEVICE. This version does not have force max FPS to avoid overheating.
-game4=ULTRA END DEVICE|libultra.so|This is for ULTRA HIGH END devices only. Uses advanced features that may not work on all devices.
+game2=MID END DEVICE|libcess.so|You selected MID END DEVICE. This version is optimized for mid-range devices.
+game3=HIGH END DEVICE|libcess.so|Make sure you are using a HIGH END DEVICE. This version does not have force max FPS to avoid overheating.
+game4=ULTRA END DEVICE|libcess.so|This is for ULTRA HIGH END devices only. Uses advanced features that may not work on all devices.
+
+game%=NAME|libcess.so|warning message
