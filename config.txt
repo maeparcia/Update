@@ -1,4 +1,4 @@
-serverBaseUrl=https://maimaimai.x10.network/onlinelib/
+serverBaseUrl=https://phantomcodes.x10.mx/onlinelib/
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
 game1=FREE VERSION|libmai.so|THIS IS FREE VERSION AND ITS NEED A KEY.
