@@ -1,4 +1,4 @@
-serverBaseUrl=https://sad-vvippi-panel.x10.mx/onlinelib/
+serverBaseUrl=https://sad-vvippi-panel.x10.mx/SadxOnlineLib/
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
 game1=FREE VERSION|libmai.so|THIS IS FREE VERSION ONLY.
