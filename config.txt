@@ -2,5 +2,3 @@ serverBaseUrl=https://0one0one.x10.mx/onlinelib/
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
 game1=FREE VERSION|libGarena.so|THIS IS FREE VERSION ONLY.
-
-game2=TEST VERSION|libtest.so|THIS IS TEST VERSION ONLY.
